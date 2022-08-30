@@ -172,7 +172,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.00000023841858, y: -0.00000011920929}
   serializedVersion: 2
-  m_Radius: 5.26
+  m_Radius: 6.25
 --- !u!212 &21395040
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -754,7 +754,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.00000023841858, y: -0.00000011920929}
   serializedVersion: 2
-  m_Radius: 5.26
+  m_Radius: 6.25
 --- !u!212 &209272875
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -923,7 +923,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.00000023841858, y: -0.00000011920929}
   serializedVersion: 2
-  m_Radius: 5.26
+  m_Radius: 6.25
 --- !u!114 &260176239
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1376,7 +1376,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.00000023841858, y: -0.00000011920929}
   serializedVersion: 2
-  m_Radius: 5.26
+  m_Radius: 6.25
 --- !u!212 &698744710
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1493,7 +1493,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.00000023841858, y: -0.00000011920929}
   serializedVersion: 2
-  m_Radius: 5.26
+  m_Radius: 6.25
 --- !u!212 &877141011
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1610,7 +1610,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.00000023841858, y: -0.00000011920929}
   serializedVersion: 2
-  m_Radius: 5.26
+  m_Radius: 6.25
 --- !u!212 &945849034
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1712,7 +1712,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.00000023841858, y: -0.00000011920929}
   serializedVersion: 2
-  m_Radius: 5.26
+  m_Radius: 6.25
 --- !u!212 &1044331367
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -1971,7 +1971,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.00000023841858, y: -0.00000011920929}
   serializedVersion: 2
-  m_Radius: 5.26
+  m_Radius: 6.25
 --- !u!212 &1422593513
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -2325,7 +2325,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: -0.00000023841858, y: -0.00000011920929}
   serializedVersion: 2
-  m_Radius: 5.26
+  m_Radius: 6.25
 --- !u!212 &1920365236
 SpriteRenderer:
   m_ObjectHideFlags: 0

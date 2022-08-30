@@ -70,12 +70,12 @@ public class Board : MonoBehaviour
 
             if (hit)
             {
-                HitBox(hit.GetComponent<Box>());
+                HitBox(hit.GetComponent<Box_>());
             }
         }     
     } 
 
-    private void HitBox(Box box)
+    private void HitBox(Box_ box)
     {
         if (!box.IsMarked)
         {
