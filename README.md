@@ -1,2 +1,2 @@
 # TestTaskForLoppiPoppiCompany
- Test task for Loppi Poppi Company
+ Test task for Loppi Poppi company
