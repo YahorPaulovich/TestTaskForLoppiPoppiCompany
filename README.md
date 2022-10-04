@@ -1,2 +1,2 @@
-# TermsOfReferenceForLoppiPoppiCompany
- Terms of Reference for Loppi Poppi Company
+# TestTaskForLoppiPoppiCompany
+ Test task for Loppi Poppi Company
