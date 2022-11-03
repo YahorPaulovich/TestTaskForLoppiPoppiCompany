@@ -2,6 +2,8 @@ using System;
 using System.Linq;
 using System.Numerics;
 
+using Debug = UnityEngine.Debug;
+
 public class Calculator
 {
     public ArithmeticExpression Data;
@@ -33,13 +35,15 @@ public class Calculator
         {
             BigInteger[] intArr = expression.Split('/').Select(BigInteger.Parse).ToArray();
             try 
-            {
+            {  
                 var resultOfDividing = intArr[0] / intArr[1];
-                Data.Expression = resultOfDividing.ToString();
+                Data.Expression = resultOfDividing.ToString();   
             }
             catch (DivideByZeroException ex)
             {
-                throw new DivideByZeroException($"Cannot divide by zero!\n" + ex);
+                Debug.Log($"Cannot divide by zero!\n" + ex);
+                Data.Expression = string.Empty;
+                return Data;
             }
             catch (OverflowException ex)
             {              
